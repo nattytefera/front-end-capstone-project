@@ -83,6 +83,7 @@ The application will automatically reload when you make changes to the code.
 
 * Make sure you are inside the project directory before running any npm commands.
 * If you encounter errors during installation, delete `node_modules` and `package-lock.json`, then run the install command again.
+* Figma design link `https://www.figma.com/design/t4hacdph6lVc0zlX1lKKLt/Front-End-Capstone-project?m=auto&t=jK1kyXTtQ1nWPRHt-6`
 
 ![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 ![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
